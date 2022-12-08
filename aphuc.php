@@ -1,3 +1,3 @@
 <?
-echo 'bye word'
+echo 'hello word'
 ?>
